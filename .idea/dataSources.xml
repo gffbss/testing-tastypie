@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="962019065">
+    <data-source source="LOCAL" name="Django default" uuid="5c4b6c1a-1389-4cda-9ecc-aee949daa9ce">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/lecture</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd9dfdedfc3dfc4dfcddfd8dfcbdfd3df9e</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
